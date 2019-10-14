@@ -52,7 +52,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 
 | Attribute  | Description  |
 |--- |--- |
-|Information Stored|This cookie is set and read by the JavaScript code when the ClickMap functionality and the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user|
+|Information Stored|This cookie is set and read by the JavaScript code when the ClickMap functionality or the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user|
 |Expiration|This cookie is a session cookie and expires when the browser is closed|
 |Usage|Only one cookie for all accounts|
 |Location|This cookie is stored at the domain of the page|
@@ -65,7 +65,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 |Information Stored|Unique visitor ID time/date stamp|
 |Expiration|2 years|
 |Usage|This cookie is used to identify a unique visitor|
-|Location|This cookie is stored at the domain of the image request - typically 2O7.net if you are using third-party cookies, or your domain if using first-party cookies.|
+|Location|This cookie is stored at the domain of the image request - typically a customer specific subdomain under 2o7.net or omtrdc.net if you are using third-party cookies, or your domain if using first-party cookies.|
 |Size|44 bytes|
 
 >[!NOTE]
@@ -77,8 +77,8 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 | Attribute  | Description  |
 |--- |--- |
 |Information Stored|Fallback unique visitor ID time/date stamp|
-|Expiration|5 years|
-|Usage|This cookie is used to identify a unique visitor if the standard  s_vi  cookie is unavailable due to third-party cookie restrictions. Not used for implementations that use first-party cookies.|
+|Expiration|2 years|
+|Usage|This cookie is used to identify a unique visitor if the standard s_vi cookie is unavailable due to third-party cookie restrictions. Not used for implementations that use first-party cookies.|
 |Location|This cookie is stored on your domain as a first-party cookie.|
 |Size|33 bytes|
 
