@@ -77,7 +77,7 @@ More information is available in Analytics help about [First-Party Cookies](/hel
 | Attribute  | Description  |
 |--- |--- |
 |Information Stored|Fallback unique visitor ID time/date stamp|
-|Expiration|5 years|
+|Expiration|2 years|
 |Usage|This cookie is used to identify a unique visitor if the standard  s_vi  cookie is unavailable due to third-party cookie restrictions. Not used for implementations that use first-party cookies.|
 |Location|This cookie is stored on your domain as a first-party cookie.|
 |Size|33 bytes|
