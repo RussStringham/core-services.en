@@ -94,7 +94,7 @@ The following table describes the flags for Analytics cookies:
 |s_cc (Javascript)|No |No |Unset|
 |s_sq (Javascript)|No |No |Unset|
 
-*Note: If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None." For help changing Analytics cookie settings, contact Customer Care.*
+*Note: If using a single CNAME to track across multiple domains or properties, SameSite should be set to "None" for s_vi. For help changing Analytics cookie settings for the s_vi cookie, contact Customer Care.*
 
 ## Cookies Set By Plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
