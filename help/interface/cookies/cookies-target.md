@@ -40,7 +40,7 @@ You can change these settings if needed, with the exception of the cookie durati
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cookie duration </p> </td> 
-   <td colname="col2"> <p>The cookie remains on the visitor's browser two weeks from his or her last login. You cannot change the cookie duration. </p> </td> 
+   <td colname="col2"> <p>The cookie remains on the visitor's browser two years from his or her last login. You cannot change the cookie duration. </p> </td> 
   </tr> 
  </tbody> 
 </table>
