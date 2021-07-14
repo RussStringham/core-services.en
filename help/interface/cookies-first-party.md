@@ -165,6 +165,6 @@ After you have verified your hostnames are responding and forwarding to Adobe da
 
 1. If you are moving to first-party cookies from a long-standing implementation, or changing to a different first-party collection hostname, Adobe recommends migrating visitors from the previous domain to the new domain.
 
-See [Visitor Migration](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/visitor-migration.html?lang=en) in the Analytics Implementation Guide.
+See [Visitor Migration](https://experienceleague.adobe.com/docs/analytics/technotes/visitor-migration.html) in the Analytics Implementation Guide.
 
 After you have uploaded the JavaScript file, everything is configured for first-party cookie data collection. Adobe recommends that you monitor Analytics reporting for the next several hours to ensure that data collection continues as normal. If it does not, verify that all above steps have been completed and have one of your organization's supported users contact Customer Care.
